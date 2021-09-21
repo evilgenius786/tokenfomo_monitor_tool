@@ -9,4 +9,4 @@ To get your Telegram channel ID:
 Now the script is ready, dont forget to install the dependencies : Requests, python-telegram-bot, bs4
 
 
-![Alt text](https://github.com/evilgenius786/tokenfomo_monitor_tool/blob/main/Screenshot_3.png?raw=true , "TokenFomo")
+![Alt text](https://github.com/evilgenius786/tokenfomo_monitor_tool/blob/main/Screenshot_3.png?raw=true)
